@@ -26,7 +26,7 @@ while x < 120: # while the value of x is lesser than 120,
     for i in range(5):
         fd(200)     
         rt(73)
-    circle(x*randint(1, 100)+10)
+    circle(randint(1, 100)+10)
     rt(12)
     up()
     fd(20)
