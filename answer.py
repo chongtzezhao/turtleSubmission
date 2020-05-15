@@ -31,5 +31,6 @@ while x < 120: # while the value of x is lesser than 120,
     up()
     fd(20)
     down()
+    x+=1
     
     
